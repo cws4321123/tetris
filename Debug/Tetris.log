@@ -1,0 +1,6 @@
+﻿  main.c
+  keyCurControl.c
+  blockStageControl.c
+c:\users\cws4321123\documents\visual studio 2017\projects\tetris\blockstagecontrol.c(70): warning C4013: 'DetectCollision'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  Tetris.vcxproj -> C:\Users\cws4321123\Documents\Visual Studio 2017\Projects\Tetris\Debug\Tetris.exe
